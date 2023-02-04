@@ -3,7 +3,7 @@ A web application that uses the open weather api
 
 
 ## Description
-The user will ba able to type in a city in order to view the current weather conditions and the 5 day forecast for the selected city. The recent cities will also be saved for when the suer returns to the site. 
+The user will be able to type in a city in order to view the current weather conditions and the 5 day forecast for the selected city. The recent cities will also be saved for when the user returns to the site.
 
 ---
 
@@ -22,12 +22,15 @@ The user will ba able to type in a city in order to view the current weather con
 
 ![image](https://user-images.githubusercontent.com/111019074/216784781-dccb9f89-c7f7-464d-b283-d86e373a7d87.png)
 
+
+
 ---
 
 ## Questions
 
 If you have any questions please feel free to reach out to me by visiting my github page:  
 https://github.com/sergluna
+
 
 
 
