@@ -16,6 +16,11 @@ The user will ba able to type in a city in order to view the current weather con
 ## License
 ![badmath](https://img.shields.io/badge/License-MIT-red)
 
+---
+
+## Screen Shot
+
+![img](Screenshot 2023-02-04 125529.png)
 
 ---
 
