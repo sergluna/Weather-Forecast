@@ -20,7 +20,7 @@ The user will ba able to type in a city in order to view the current weather con
 
 ## Screen Shot
 
-![img](Screenshot 2023-02-04 125529.png)
+![image](https://user-images.githubusercontent.com/111019074/216784781-dccb9f89-c7f7-464d-b283-d86e373a7d87.png)
 
 ---
 
