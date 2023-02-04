@@ -11,7 +11,7 @@ The user will be able to type in a city in order to view the current weather con
 
 ![badmath](https://img.shields.io/badge/Language-JavaScript-blue)  
 ![badmath](https://img.shields.io/badge/CSS-Bootstrap-blueviolet)  
-![badmath](https://img.shields.io/badge/API-OpenWaether-important)
+![badmath](https://img.shields.io/badge/API-OpenWeather-important)
 
 ## License
 ![badmath](https://img.shields.io/badge/License-MIT-red)
